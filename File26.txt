@@ -1,3 +1,4 @@
+star films
 <film>
 	<title>Моана</title>
 	<directors>
