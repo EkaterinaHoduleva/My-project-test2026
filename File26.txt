@@ -1,4 +1,4 @@
-star films
+star films new
 <film>
 	<title>Моана</title>
 	<directors>
