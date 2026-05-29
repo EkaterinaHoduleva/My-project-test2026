@@ -34,3 +34,20 @@
 	<age_restriction>true</age_restriction>
 	<description>Эпическое завершение третьей части трилогии «Властелин колец»</description>
 </film>
+<film>
+	<title>Маска</title>
+	<director>Чак Расселл</director>
+	<year>1994</year>
+	<genre>
+		<type>Комедия</type>
+		<type>Фэнтези</type>
+	</genre>
+	<ratings>
+		<rating> IMDb 6.9 </rating>
+		<rating> Кинопоиск 7.6 </rating>
+	</ratings>
+	<age_restriction>false</age_restriction>
+	<description>
+        Банковский клерк Стэнли Ипкисс находит древнюю маску, которая дарует ему сверхъестественные способности и превращает его в эксцентричного супергероя.
+    </description>
+</film>
